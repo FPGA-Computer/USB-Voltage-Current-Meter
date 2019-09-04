@@ -17,6 +17,7 @@ Firmware is written for Cosmic C which ST arranged to have for free use
 with their STM8 chips.
 
 Project page: mod, documentations, photos
+
 https://hw-by-design.blogspot.com/2019/08/usb-meter-modding.html
 https://hw-by-design.blogspot.com/2019/09/usb-meter-modding-part-2.html
 
