@@ -23,5 +23,7 @@ https://hw-by-design.blogspot.com/2019/08/usb-meter-modding.html
 https://hw-by-design.blogspot.com/2019/09/usb-meter-modding-part-2.html
 
 Licensing:
+
 Schematic: Creative Commons 4.0 Attribution-ShareAlike 4.0 International
+
 firmware source code: GPL v3
