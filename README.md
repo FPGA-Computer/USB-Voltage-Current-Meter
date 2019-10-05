@@ -28,6 +28,8 @@ https://hw-by-design.blogspot.com/2019/08/usb-meter-modding.html
 
 https://hw-by-design.blogspot.com/2019/09/usb-meter-modding-part-2.html
 
+https://hw-by-design.blogspot.com/2019/10/uc-mod-pcb-part-3.html
+
 Licensing:
 
 Schematic/PCB: Creative Commons 4.0 Attribution-ShareAlike 4.0 International
