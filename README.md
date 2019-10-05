@@ -38,4 +38,4 @@ Firmware: source code: GPL v3
 
 Updates:
 
-New PCB for the adapter board - untested.
+New PCB for the adapter board - verified.
